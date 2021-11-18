@@ -1,0 +1,44 @@
+/*Brevan-*/
+/*Quiz 2A style.css*/
+/*November 18th 2021*/
+/*TEJ20*/
+
+*{
+  background-color: yellow;
+}
+
+.heading{
+  color: brown; 
+  background-color: pink;
+  text-transform: uppercase; 
+}
+
+#more{
+  color: black;
+  background-color: green;
+}
+
+.top-attraction li{
+  color: orange;
+}
+
+#museum{
+  color: red;
+}
+
+#biking{
+  color: red;
+}
+
+#Parasailing{
+  color: red;
+}
+
+#special{
+  font-size: 20px;
+  font-family: Helvetica;
+}
+
+
+
+
